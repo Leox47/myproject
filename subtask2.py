@@ -14,3 +14,4 @@ if (Count == 0):
     print ("Min = -1" + "\nAvg = -1")    
 else:
     print ("Count = " + str(Count) + "\nMin = " + str(Min) + "\nSum = " + str(Sum) + "\nAvg = " + str(Sum/Count))
+    # it looks like I learned how to use git today
