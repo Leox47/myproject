@@ -12,3 +12,4 @@ def fcn(Num):
     print("Quotient squared is:", q)
     
 fcn(30)
+# it looks like I learned how to use git today
